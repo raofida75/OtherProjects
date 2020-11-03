@@ -10,8 +10,7 @@ This repository contains all of my personal projects that I've done. Currently t
 
 Hello! 
 
-My name is Fida Hussain Rao,  welcome to my Project Portfolio! A little bit about me. I am currently pursuing Bachelors in Mechanical Engineering at Ned University Karachi. I shifted to Data science in my sophomore year when I started learning programming for my university course. Realizing the interest I developed in learning programming, I further explored Data Science, Machine Learning and Deep Learning. 
-
+My name is Fida Hussain Rao,  welcome to my Project Portfolio! A little bit about me. My Data science journey began in February 2020. I started off by learning python,  and eventually migrated to data science by doing online courses. 
 ### Contact Me
 
 | Contact Method |  |
