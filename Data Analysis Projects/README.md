@@ -3,7 +3,5 @@
 2) [Web Scraping and Data Analysis](https://github.com/raofida75/PersonalProjects/tree/main/Data%20Analysis%20Projects/Web%20Scraping%20and%20Analyzing%20movie%20data)
   
     - [Web Scraping using Beautiful Soup](https://bit.ly/3eonive)
-    
     - [Data Cleaning](https://bit.ly/3el421T)
-    
     - [Data Analysis](https://bit.ly/3oQ7o1A)
