@@ -8,9 +8,12 @@ This repository contains all of my personal projects:
 5. [Predicting Future Sales](https://github.com/raofida75/PersonalProjects/blob/main/Predicting%20Future%20Sales/Predicting%20Future%20Sales.ipynb)
 6. [Sentiment Analysis](https://github.com/raofida75/PersonalProjects/blob/main/Sentiment%20Analysis%20Project/Sentiment%20Analysis.ipynb)
 7. [Star wars data analysis](https://github.com/raofida75/PersonalProjects/blob/main/Star-wars-survey-data/Star%20wars%20survey.ipynb)
-8. Analysis data for Walt Disney Pictures
+8. Analyze data for Walt Disney Pictures
+    
     a. [Web scraping](https://github.com/raofida75/PersonalProjects/blob/main/Web%20Scraping%20and%20Analyzing%20movie%20data/Web%20scraping.ipynb)
+    
     b. [Data Cleaning](https://github.com/raofida75/PersonalProjects/blob/main/Web%20Scraping%20and%20Analyzing%20movie%20data/Data%20Cleaning.ipynb)
+    
     c. [Data Visualization](https://github.com/raofida75/PersonalProjects/blob/main/Web%20Scraping%20and%20Analyzing%20movie%20data/Data%20Visualization.ipynb)
 
 ### Contact Me
